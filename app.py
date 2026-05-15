@@ -41,7 +41,7 @@ def read_pdf(file):
 
 @st.cache_resource
 def load_model():
-    model = joblib.load("resume_classifier.pkl")
+    model = joblib.load("model.pkl")
     return model
 
 model = load_model()
