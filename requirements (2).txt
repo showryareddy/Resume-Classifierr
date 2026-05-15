@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+nltk
+python-docx
+pdfplumber
+pywin32
+joblib
+streamlit
